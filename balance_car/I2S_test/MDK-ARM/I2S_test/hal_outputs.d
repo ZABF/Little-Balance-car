@@ -1,0 +1,17 @@
+i2s_test\hal_outputs.o: ..\Core\MPL\mllite\hal_outputs.c
+i2s_test\hal_outputs.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+i2s_test\hal_outputs.o: ..\Core\MPL\mllite\hal_outputs.h
+i2s_test\hal_outputs.o: ..\Core\MPL\driver\include\mltypes.h
+i2s_test\hal_outputs.o: ..\Core\MPL\driver\include\stdint_invensense.h
+i2s_test\hal_outputs.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+i2s_test\hal_outputs.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\errno.h
+i2s_test\hal_outputs.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+i2s_test\hal_outputs.o: ..\Core\MPL\driver\include\log.h
+i2s_test\hal_outputs.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+i2s_test\hal_outputs.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+i2s_test\hal_outputs.o: ..\Core\MPL\mllite\ml_math_func.h
+i2s_test\hal_outputs.o: ..\Core\MPL\driver\include\mlmath.h
+i2s_test\hal_outputs.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+i2s_test\hal_outputs.o: ..\Core\MPL\mllite\start_manager.h
+i2s_test\hal_outputs.o: ..\Core\MPL\mllite\data_builder.h
+i2s_test\hal_outputs.o: ..\Core\MPL\mllite\results_holder.h

@@ -1,0 +1,12 @@
+i2s_test\inv_mpu_dmp_motion_driver.o: ..\Core\MPL\driver\eMPL\inv_mpu_dmp_motion_driver.c
+i2s_test\inv_mpu_dmp_motion_driver.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+i2s_test\inv_mpu_dmp_motion_driver.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+i2s_test\inv_mpu_dmp_motion_driver.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+i2s_test\inv_mpu_dmp_motion_driver.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+i2s_test\inv_mpu_dmp_motion_driver.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+i2s_test\inv_mpu_dmp_motion_driver.o: ..\Core\MPL\driver\eMPL\inv_mpu.h
+i2s_test\inv_mpu_dmp_motion_driver.o: ..\Core\MPL\driver\eMPL\inv_mpu_dmp_motion_driver.h
+i2s_test\inv_mpu_dmp_motion_driver.o: ..\Core\MPL\driver\eMPL\dmpKey.h
+i2s_test\inv_mpu_dmp_motion_driver.o: ..\Core\MPL\driver\eMPL\dmpmap.h
+i2s_test\inv_mpu_dmp_motion_driver.o: ../Core/Inc/mpu6050_i2c.h
+i2s_test\inv_mpu_dmp_motion_driver.o: ../Core/Inc/main.h

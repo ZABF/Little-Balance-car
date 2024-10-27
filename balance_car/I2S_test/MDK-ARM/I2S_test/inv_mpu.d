@@ -1,0 +1,9 @@
+i2s_test\inv_mpu.o: ..\Core\MPL\driver\eMPL\inv_mpu.c
+i2s_test\inv_mpu.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+i2s_test\inv_mpu.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+i2s_test\inv_mpu.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+i2s_test\inv_mpu.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+i2s_test\inv_mpu.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+i2s_test\inv_mpu.o: ..\Core\MPL\driver\eMPL\inv_mpu.h
+i2s_test\inv_mpu.o: ../Core/Inc/mpu6050_i2c.h
+i2s_test\inv_mpu.o: ../Core/Inc/main.h
